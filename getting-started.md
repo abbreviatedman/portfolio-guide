@@ -26,8 +26,9 @@ Still in VS Code:
 - Add some test content.
 - Save the file. (You should turn on auto-save in the File menu if you don't already have it!)
 - Go to the Source Control tab on the left.
-- Type a commit message and click the checkmark to commit.
-- Click the three dots and choose "Push" to push the commit to GitHub.
+- Add `index.html` to the staging area. You can do this by clicking the plus button next to the file name. You'll see the file go from the Changes section to the Staged Changes section.
+- Type a commit message in the text box at the top of the Source Control tab.
+- Click the three dots and choose "Commit and Push" to package up your changes and send them to GitHub.
 
 ### Deploying Your Repo
 
@@ -43,7 +44,7 @@ Back in your browser:
 
 Back in VS Code:
 
-- Make a change to your `index.html` file. Recommended: create an about.html page and add a link to it in your index.html.
-- In the Source Control tab, stage the changes by pressing the plus button.
-- Commit and push the change. Recommended way to do this: add a commit message, then there's currently a drop-down next to the commit button with a push option.
-- Refresh your browser to see the change. It will hit your repository before it hits the page itself--check the repository page and, assuming it's updated there, give GitHub some time to re-deploy your page.
+- Make a change to your `index.html` file. Recommended: create an `about.html` page with some sample text and add a link to it in your `index.html`.
+- In the Source Control tab, stage the changes by pressing the plus button next to any changes you've made, so that you have files in the Staged Changes section only (none in the regular Changes section).
+- Commit and push the changes. Recommended way to do this: add a commit message, then there's currently a drop-down next to the commit button with a push option.
+- Refresh your browser to see the change. It will hit your repository before it hits the page itself--check the repository page to confirm you pushed (you should see your commit message displayed next to the files you changed) and, assuming it's updated there, give GitHub up to 5 minutes to re-deploy your page.
