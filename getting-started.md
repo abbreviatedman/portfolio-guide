@@ -6,7 +6,8 @@ Here are some steps to get you started with Git and GitHub, and to get your firs
 
 In your browser:
 
-- Create `[username].github.io` on GitHub
+- Log into GitHub or create an account.
+- Create a repository called `[username].github.io` (with the bracketed area and the brackets themselves replaced by your username).
 
 ### Getting The Repository On Your Machine
 
