@@ -8,6 +8,7 @@ Simple doesn't mean plain, but it _does_ mean that the focus is on the content a
 
 It is a good idea to have a simple portfolio if you are just starting out. It is easy to maintain and update, and it is easy to navigate for potential employers.
 
+- [Sharon Yi)(https://sharon-yi.com/)
 - [Ian Lunn](https://ianlunn.co.uk/)
 - [Dejan Markovic](https://www.dejan.works/)
 - [Matt Farley](https://mattfarley.ca/)
